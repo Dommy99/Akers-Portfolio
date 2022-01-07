@@ -11,7 +11,7 @@ A online protfolio
 
 ## Website
 
-https://lernantino.github.io/run-buddy/
+https://dommy99.github.io/Akers-Portfolio/
 
 ## Contribution
 
