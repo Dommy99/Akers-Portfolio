@@ -19,6 +19,12 @@ body {
   color: var(--secondary-color);
 }
 
+a,
+p {
+  color: var(--secondary-color);
+  font-size: 30px;
+}
+
 header {
   background-color: var(--secondary-color);
   /* background-image: url(images/IMG-20200803-203058-223.JPG); */
