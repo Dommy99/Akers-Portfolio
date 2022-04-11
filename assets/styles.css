@@ -3,10 +3,10 @@
   --secondary-color: #d2d820fa;
   --tertiary-color: #000000;
   --text-color: white;
-  /* --primary-color: #ffffff;
+  --primary-color: #ffffff;
   --secondary-color: #20d8cf9f;
-  --tertiary-color: #000000; */
-}
+  --tertiary-color: #000000; 
+ }
 
 * {
   margin: 0;
@@ -27,7 +27,7 @@ p {
 
 header {
   background-color: var(--secondary-color);
-  /* background-image: url(images/IMG-20200803-203058-223.JPG); */
+  background-image: url(images/IMG-20200803-203058-223.JPG);
   background-size: cover;
   background-position: center;
   position: sticky;
@@ -91,7 +91,7 @@ header nav ul {
 
 .my-work {
   text-align: center;
-  /* display: flex; */
+  display: flex;
 }
 
 .my-work h2 {
@@ -103,7 +103,7 @@ header nav ul {
   display: flex;
   justify-content: space-evenly;
   flex-wrap: wrap;
-}
+} */
 
 /* https://www.w3schools.com/css/css3_buttons.asp */
 .button {
@@ -146,7 +146,7 @@ footer h2 {
 
 /* SEO */
 
-@media screen and (max-width: 980px) {
+ @media screen and (max-width: 980px) {
   .hero {
     height: 1158px;
     width: 90%;
@@ -210,4 +210,5 @@ footer h2 {
     border: none;
     padding-left: 67px;
   }
-}
+} 
+
